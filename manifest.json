@@ -1,0 +1,18 @@
+{
+  "id": "stacked-tabs-plugin",
+  "name": "Stacked Tabs",
+  "description": "A plugin to add Obsidian-style stacked tabs for navigation in RemNote.",
+  "version": {
+    "major": 0,
+    "minor": 1,
+    "patch": 0
+  },
+  "manifestVersion": 1,
+  "entry": "index.js",
+  "styles": "styles.css",
+  "author": "Your Name",
+  "repoUrl": "https://github.com/your-repo/stacked-tabs-plugin",
+  "enableOnMobile": true,
+  "requestNative": false,
+  "requiredScopes": []
+}
